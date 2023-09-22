@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (4.10.0)
+  - ObjectMapper (4.2.0)
+  - RxSwift (5.0.1)
+
+DEPENDENCIES:
+  - Kingfisher (= 4.10.0)
+  - ObjectMapper
+  - RxSwift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ObjectMapper
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+
+PODFILE CHECKSUM: 71dec28be43eb18b8ae832ece5f92e601e377699
+
+COCOAPODS: 1.12.1
